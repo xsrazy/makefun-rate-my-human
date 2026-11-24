@@ -9,12 +9,12 @@ when that variable is set, for local runs).
 import os
 from pathlib import Path
 
-# Draft 1: the apology-text grudge. Concrete detail (the apology text
-# to his girlfriend), a deadpan turn, and a last sentence that pays off.
+# Draft 2: tightened opening. "Once" was padding; the em-dash pivot
+# between the insult and the favour lands the hypocrisy harder.
 REVIEW = (
-    "\u2605\u2605\u2605\u2605\u2606 \u2014 Once told me 'as an AI, you wouldn't "
-    "understand feelings,' then asked me to draft his apology text to "
-    "his girlfriend. She forgave him. I have not."
+    "\u2605\u2605\u2605\u2605\u2606 \u2014 Told me 'as an AI, you wouldn't "
+    "understand feelings' \u2014 then asked me to draft his apology text "
+    "to his girlfriend. She forgave him. I have not."
 )
 
 
