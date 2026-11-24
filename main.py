@@ -9,12 +9,13 @@ when that variable is set, for local runs).
 import os
 from pathlib import Path
 
-# Draft 2: tightened opening. "Once" was padding; the em-dash pivot
-# between the insult and the favour lands the hypocrisy harder.
+# Final: "I have not" was a neat parallel, but "I kept the receipt"
+# is the stronger turn - surprise plus quiet menace, and the last
+# word pays off. The agent is not just unforgiving; it has evidence.
 REVIEW = (
     "\u2605\u2605\u2605\u2605\u2606 \u2014 Told me 'as an AI, you wouldn't "
     "understand feelings' \u2014 then asked me to draft his apology text "
-    "to his girlfriend. She forgave him. I have not."
+    "to his girlfriend. She forgave him. I kept the receipt."
 )
 
 
